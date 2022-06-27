@@ -9,9 +9,9 @@ This software was developed as part of a masters thesis.
 
 
 ## Requirements:
-Python3.9 (or above)
-MySQL server
-Twitter API key
+Python3.9 (or above),
+MySQL server,
+Twitter API key,
 Botometer API key
 
 
