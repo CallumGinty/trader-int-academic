@@ -1,8 +1,8 @@
-# Trader-int. 
-Twitter and Botometer extractor
+# Trader-int Academic
+Twitter and Botometer extractor.
 
 ## Description:
-This software extracts Tweets for a list of cashtags and assigns bot scores to the users. Results are saved in two tables in a MySQL database. 
+This software extracts Tweets for a list of ASX cashtags and assigns bot scores to the users. Results are saved in two tables in a MySQL database. 
 
 This software was developed as part of a masters thesis.
 
